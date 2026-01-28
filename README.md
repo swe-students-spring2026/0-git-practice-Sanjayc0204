@@ -11,3 +11,5 @@ The article particularly resonates because it doesn't just present AI as another
 
 
 
+# **VINCENT WAS HERE**
+**AI slop only becomes something cool when we pair it with taste, lots of tests, and good software engineering skills!**
